@@ -37,22 +37,7 @@ Offlinefy is a **playlist downloader** that fetches all tracks from a public Spo
 ---
 
 ## Setup
-
-1. Clone this repository or download the source code.
-2. Create a `.env` file in the root folder with your Spotify API credentials:
-
-```
-SPOTIFY_CLIENT_ID=your_client_id
-SPOTIFY_CLIENT_SECRET=your_client_secret
-```
-
-3. Make sure you have `yt-dlp.exe` and `ffmpeg.exe` inside the project directory.
-4. Run the program with:
-
-```bash
-node Assets/main.js
-```
-
+Just download it and execute the Offlinefy_vX.X.exe
 ---
 
 ## Usage
