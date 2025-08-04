@@ -39,6 +39,7 @@ Offlinefy is a **playlist downloader** that fetches all tracks from a public Spo
 ## Setup
 
 Just download it and execute the Offlinefy_vX.X.exe
+
 ---
 
 ## Usage
